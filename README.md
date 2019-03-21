@@ -5,7 +5,10 @@ Introduction to Git and Linux Commands
 * https://www.youtube.com/watch?v=HVsySz-h9r4 - Corey Schafer Video on Git Basics
 * https://www.youtube.com/watch?v=cBokz0LTizk - Traversy Media Video on Command Line Basics
 
-# STAR WARS The Death of the original Death Star (SPOILERS)
+
+# Exercise
+
+### STAR WARS The Death of the original Death Star (SPOILERS)
 
 * Navigating your computer through terminal is an extremely important practically required skill to be a programmer. The following is an assignment where you will make / delete folders and files to help you get used to navigating your terminal and manipulating your files with bash commands.
 
